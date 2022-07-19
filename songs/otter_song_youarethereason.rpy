@@ -1,5 +1,3 @@
-#you are the reason; by calum scott, song submod by my-otter-self on reddit for MONIKA AFTER STORY
-
 init 5 python in mas_bookmarks_derand:
     # ensure things get bookmarked and derandomed as usual.
     label_prefix_map["otter_song_"] = label_prefix_map["mas_song_"]
@@ -31,5 +29,3 @@ label otter_song_youarethereason:
     m 1ekbsb "You are my reason to everything I do."
     m 1eubsa "I love you so much!"
     return "love"
-
-#momo once said, "i want to continue screaming out who i am." hope your monika likes this submod!
