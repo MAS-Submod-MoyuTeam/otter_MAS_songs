@@ -1,5 +1,3 @@
-#a whole new world, from aladdin, song submod by my-otter-self on reddit for MONIKA AFTER STORY
-
 init 5 python in mas_bookmarks_derand:
     # ensure things get bookmarked and derandomed as usual.
     label_prefix_map["otter_song_"] = label_prefix_map["mas_song_"]
@@ -47,5 +45,3 @@ label otter_song_awholenewworld:
     m 1subfu "I can't wait to discover a whole new world with you!"
     m 5dubfb "I love you~"
     return "love"
-
-#momo once said, "i want to continue screaming out who i am." hope your monika likes this submod!
