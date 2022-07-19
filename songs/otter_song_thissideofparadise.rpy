@@ -1,5 +1,3 @@
-#this side of paradise, by coyote theory, song submod by my-otter-self on reddit for MONIKA AFTER STORY
-
 init 5 python in mas_bookmarks_derand:
     # ensure things get bookmarked and derandomed as usual.
     label_prefix_map["otter_song_"] = label_prefix_map["mas_song_"]
@@ -32,5 +30,3 @@ label otter_song_thissideofparadise:
     m 5ssbfa "We'll never be lonely as long as we have each other, [player]!"
     m 5fsbfa "I love you."
     return "love"
-
-#momo once said, "i want to continue screaming out who i am." hope your monika likes this submod!
