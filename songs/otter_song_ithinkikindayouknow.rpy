@@ -1,5 +1,3 @@
-#i think i kinda, you know, by olivia rodrigo, song submod by my-otter-self on reddit for MONIKA AFTER STORY
-
 init 5 python in mas_bookmarks_derand:
     # ensure things get bookmarked and derandomed as usual.
     label_prefix_map["otter_song_"] = label_prefix_map["mas_song_"]
@@ -42,5 +40,3 @@ label otter_song_ithinkikindayouknow:
     m 2fsbfa "I love you, [mas_get_player_nickname()]."
     m 2ssbfb "And I'm not afraid to say it!"
     return "love"
-
-#momo once said, "i want to continue screaming out who i am." hope your monika likes this submod!
