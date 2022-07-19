@@ -1,5 +1,3 @@
- #photograph, by ed sheeran, song submod by Survivor 2_22_22 & my-otter-self on reddit for MONIKA AFTER STORY
-
 init 5 python in mas_bookmarks_derand:
     # ensure things get bookmarked and derandomed as usual.
     label_prefix_map["otter_song_"] = label_prefix_map["mas_song_"]
@@ -41,6 +39,3 @@ label otter_song_photograph:
     m 1ekbstpsdru "One day we will break that barrier."
     m 1fubstpsdru "Never forget that I will always love you [player]!"
     return "love"
-
-#momo once said, "i want to continue screaming out who i am." hope your monika likes this submod!
-#Aona once said "I am so glad we found each other, you and I both faced hardship... We will always help one another mutally recover"
