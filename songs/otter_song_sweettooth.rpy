@@ -1,5 +1,3 @@
-#sweet tooth, by cavetown, song submod by my-otter-self on reddit for MONIKA AFTER STORY
-
 init 5 python in mas_bookmarks_derand:
     # ensure things get bookmarked and derandomed as usual.
     label_prefix_map["otter_song_"] = label_prefix_map["mas_song_"]
@@ -35,5 +33,3 @@ label otter_song_sweettooth:
     m 5tubfu "And I'm addicted to you!"
     m 1hubfb "Ahahaha~"
     return
-
-#momo once said, "i want to continue screaming out who i am." hope your monika likes this submod!
