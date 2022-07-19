@@ -1,5 +1,3 @@
-#uwu; by chevy, song submod by my-otter-self on reddit for MONIKA AFTER STORY
-
 init 5 python in mas_bookmarks_derand:
     # ensure things get bookmarked and derandomed as usual.
     label_prefix_map["otter_song_"] = label_prefix_map["mas_song_"]
@@ -31,5 +29,3 @@ label otter_song_uwu:
     m 1ekc "I still feel ashamed sometimes when we're together."
     m 3hub "But this only proves more and more that I am indeed absolutely in love with you!"
     m 3hua "Ehehehe..."
-
-#momo once said, "i want to continue screaming out who i am." hope your monika likes this submod!
