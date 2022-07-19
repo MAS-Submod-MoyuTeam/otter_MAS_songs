@@ -1,5 +1,3 @@
-#call me irresponsible, by bobby darin, song submod by my-otter-self on reddit for MONIKA AFTER STORY
-
 init 5 python in mas_bookmarks_derand:
     # ensure things get bookmarked and derandomed as usual.
     label_prefix_map["otter_song_"] = label_prefix_map["mas_song_"]
@@ -36,5 +34,3 @@ label otter_song_callmeirresponsible:
     m 1tfbfu "Then I don't want to be right!"
     m 1hsbfb "Ahahaha~!"
     return "love"
-
-#momo once said, "i want to continue screaming out who i am." hope your monika likes this submod!
