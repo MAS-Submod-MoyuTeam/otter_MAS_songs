@@ -2,7 +2,7 @@
 <h3 align="center">"i want to continue screaming out who i am." ~momo</h3>
 <h4 align="center">all the songs i coded for monika after story.</h4>
 <p align="center">
-  <a href="https://github.com/my-otter-self/otters-mas-songs/releases/latest">
+  <a href="https://github.com/my-otter-self/otter-mas-songs/releases/latest">
     <img alt="Latest release" src="https://img.shields.io/github/v/release/my-otter-self/otter_MAS_songs">
   </a>
   <a href="https://mon.icu/discord">
