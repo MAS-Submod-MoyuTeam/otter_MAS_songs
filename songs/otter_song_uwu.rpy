@@ -25,3 +25,5 @@ label otter_song_uwu:
     m 1ekc "I still feel ashamed sometimes when we're together."
     m 3hub "But this only proves more and more that I am indeed absolutely in love with you!"
     m 3hua "Ehehehe..."
+
+return "love"
