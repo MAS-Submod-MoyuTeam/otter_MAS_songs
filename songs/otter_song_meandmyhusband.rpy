@@ -1,7 +1,3 @@
-init 5 python in mas_bookmarks_derand:
-    # ensure things get bookmarked and derandomed as usual.
-    label_prefix_map["otter_song_"] = label_prefix_map["mas_song_"]
-
 init 10 python:
     def _otterMod_checkConditionals_3():
         if persistent.gender == 'M' and mas_isMoniNormal(higher=True):
