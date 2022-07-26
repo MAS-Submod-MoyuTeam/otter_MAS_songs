@@ -1,7 +1,3 @@
-init 5 python in mas_bookmarks_derand:
-    # ensure things get bookmarked and derandomed as usual.
-    label_prefix_map["otter_song_"] = label_prefix_map["mas_song_"]
-
 init 5 python:
     addEvent(
         Event(
