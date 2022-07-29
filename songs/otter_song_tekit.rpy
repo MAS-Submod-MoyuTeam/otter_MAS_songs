@@ -6,7 +6,7 @@ init 5 python:
             category=[mas_songs.TYPE_SHORT],
             prompt="Tek it",
             aff_range=(mas_aff.NORMAL, None),
-            conditional="mas_globals.time_of_day_3state in == 'night'",
+            conditional="mas_globals.time_of_day_3state == 'night'",
             action=EV_ACT_RANDOM
         ),
         code="SNG"
